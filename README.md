@@ -1,2 +1,2 @@
-# Invoice-Recognition
+# Receipt-Recognition
 My internship project.
